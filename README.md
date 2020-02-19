@@ -13,20 +13,16 @@ Baixe e instale o cliente visual [PostBrid](https://www.electronjs.org/apps/post
 
 Configure com os dados do banco no arquivo server.js
 
-    const db = new pool({ 
-  
-    user: 'postgres',   //seu nome de usuario
-    
-    password: '0000',   //seu password cadastrado
-    
-    host: 'localhost',  //host de acesso ao banco de dado
-    
-    port: 5432,         //a porta de comunicação com o BD
-    
-    database: 'doe'     //o nome do banco de dados criado 
-    
-    })
-    
+```sh
+const db = new pool({   
+user: 'postgres',   //seu nome de usuario    
+password: '0000',   //seu password cadastrado    
+host: 'localhost',  //host de acesso ao banco de dado    
+port: 5432,         //a porta de comunicação com o BD    
+database: 'doe'     //o nome do banco de dados criado 
+
+})
+```
 ### Dependencias
  
 Você precisará instalar todas as dependencia do projeto encontradas no arquivo packge.json
@@ -36,5 +32,6 @@ para Instalar use o comando
 ```sh
 $ npm install {nome da dependencia}
 ```
+
     
   
