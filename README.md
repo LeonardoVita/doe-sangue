@@ -1,5 +1,9 @@
+![Screenshot_1](https://user-images.githubusercontent.com/43863949/74798768-6f660c00-52ad-11ea-8582-5e43ab301145.png)
 # doe-sangue
-Projeto MaratonaDev 3 rocketseat
+Projeto MaratonaDev 3 [Rocketseat](https://rocketseat.com.br)
+
+- o projeto deve ser capaz de salvar em um banco de dados os dados de usarios que optarem por doarem
+- apresentar os ultimos doadores cadastrados
 
 ## Instalação do Bando de Dados
 
