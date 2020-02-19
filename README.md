@@ -1,7 +1,7 @@
 # doe-sangue
 Projeto MaratonaDev 3 rocketseat
 
-##Instalação do Bando de Dados
+## Instalação do Bando de Dados
 
 Baixe no site oficial e instale o [PostgreSQL](https://www.postgresql.org/download/)
 
@@ -26,3 +26,15 @@ Configure com os dados do banco no arquivo server.js
     database: 'doe'     //o nome do banco de dados criado 
     
     })
+    
+### Dependencias
+ 
+Você precisará instalar todas as dependencia do projeto encontradas no arquivo packge.json
+
+para Instalar use o comando
+
+```sh
+$ npm install {nome da dependencia}
+```
+    
+  
