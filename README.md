@@ -23,7 +23,7 @@ database: 'doe'     //o nome do banco de dados criado
 })
 ```
 ### Dependencias
-- Você vai precisar instar o [node.js](https://nodejs.org/pt-br/) na sua maquina.
+- Você vai precisar instalar o [node.js](https://nodejs.org/pt-br/) na sua maquina.
 - [Express](https://www.npmjs.com/package/express) - Fast, unopinionated, minimalist web framework for node
 - [nodemon](https://www.npmjs.com/package/nodemon) - To automatically restarting the node application when file changes
 - [nunjucks](https://www.npmjs.com/package/nunjucks) - Templating engine for javascript
